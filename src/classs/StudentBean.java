@@ -6,7 +6,7 @@ private String gender;
 private Integer age;
 private String phone;
 public String getName() {
-	return name;
+	return name;//asdasdasd
 }
 public void setName(String name) {
 	this.name = name;
